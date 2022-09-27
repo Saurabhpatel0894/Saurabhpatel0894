@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **saurabh.patel0894@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1T8ELOuO8ZJbBzao6g2USnkOXgHlFokIZ_cCxH8wkikk/edit?usp=sharing](https://docs.google.com/document/d/1T8ELOuO8ZJbBzao6g2USnkOXgHlFokIZ_cCxH8wkikk/edit?usp=sharing)
+- 👨‍💻 Turn your attention to [My Portfolio](https://saurabhpatel0894.github.io/)
+
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1T8ELOuO8ZJbBzao6g2USnkOXgHlFokIZ_cCxH8wkikk/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +26,6 @@
 
 <p><img width="50%px" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpatel0894&show_icons=true&locale=en&layout=compact" alt="saurabhpatel0894" /></p>
 
-<p>&nbsp;<img width="50%px" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhpatel0894&show_icons=true&locale=en" alt="saurabhpatel0894" /></p>
+<p><img width="50%px" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhpatel0894&show_icons=true&locale=en" alt="saurabhpatel0894" /></p>
 
 <p><img width="50%px" height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpatel0894&" alt="saurabhpatel0894" /></p>
