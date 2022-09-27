@@ -13,7 +13,7 @@
 
 - 👨‍💻 Turn your attention to [My Portfolio](https://saurabhpatel0894.github.io/)
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1T8ELOuO8ZJbBzao6g2USnkOXgHlFokIZ_cCxH8wkikk/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jjftYgMrXW2g3iMwzAEUEhk9xAeSEy-m/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
