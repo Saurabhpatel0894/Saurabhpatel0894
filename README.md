@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://saurabhpatel0894.github.io/" target="blank"><img align="center" src="https://cdn2.vectorstock.com/i/1000x1000/58/56/portfolio-icon-linear-style-vector-20905856.jpg" alt="portfolio" height="30" width="40" /></a>
+ <a href="https://saurabhpatel0894.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/726/726107.png" alt="portfolio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saurabh-patel-78b368233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-patel-78b368233" height="30" width="40" /></a>
  
 </p>
