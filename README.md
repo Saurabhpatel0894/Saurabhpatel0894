@@ -19,6 +19,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/saurabh-patel-78b368233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-patel-78b368233" height="30" width="40" /></a>
+  <a href="https://saurabhpatel0894.github.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/39138/portfolio.svg" alt="portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
