@@ -43,8 +43,8 @@
 	<img src="https://img.shields.io/badge/STS-color?style=for-the-badge&logo=STS&logoColor=white" alt="STS"/>
 	<img src="https://img.shields.io/badge/Lombok-grey?style=for-the-badge&logo=Lombok&logoColor=white" alt="STS"/>
 </p>
-
-<p align="center"><img width="55%px" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpatel0894&show_icons=true&locale=en&layout=compact" alt="saurabhpatel0894" /></p>
+<br/>
+<p align="center"><img width="50%px" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpatel0894&show_icons=true&locale=en&layout=compact" alt="saurabhpatel0894" /></p>
 
 <p align="center"><img width="50%px" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhpatel0894&show_icons=true&locale=en" alt="saurabhpatel0894" /></p>
 
