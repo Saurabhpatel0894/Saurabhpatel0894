@@ -23,7 +23,26 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left">
+	<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+	<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/> 
+	<img src="https://img.shields.io/badge/Maven-pink?style=for-the-badge&logo=maven&logoColor=white" alt="Maven"/> 
+	<img src="https://img.shields.io/badge/Spring Boot-yellow?style=for-the-badge&logo=Spring Boot&logoColor=white" alt="Spring Boot"/> 
+	<img src="https://img.shields.io/badge/JPQL-aqua?style=for-the-badge&logo=JPQL&logoColor=white" alt="JPQL" />
+	<img src="https://img.shields.io/badge/Hibernate-grey?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
+	<img src="https://img.shields.io/badge/JDBC-red?style=for-the-badge&logo=JDBC&logoColor=white" alt="JDBC"/> 
+	<img src="https://img.shields.io/badge/Rest API-ocean?style=for-the-badge&logo=Rest API&logoColor=white" alt="Rest API"/> 
+	<img src="https://img.shields.io/badge/Postman-maroon?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/> 
+	<img src="https://img.shields.io/badge/SQL-crimson?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL"/>
+	<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/> 
+	<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
+	<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS" />
+	<img src="https://img.shields.io/badge/Mysql-purple?style=for-the-badge&logo=Mysql&logoColor=white" alt="Mysql"/> 
+	<img src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger"/> 
+	<img src="https://img.shields.io/badge/IntelliJ IDEA-blue?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" alt="IntelliJ IDEA"/> 
+	<img src="https://img.shields.io/badge/STS-color?style=for-the-badge&logo=STS&logoColor=white" alt="STS"/>
+	<img src="https://img.shields.io/badge/Lombok-grey?style=for-the-badge&logo=Lombok&logoColor=white" alt="STS"/>
+</p>
 
 <p align="center"><img width="55%px" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpatel0894&show_icons=true&locale=en&layout=compact" alt="saurabhpatel0894" /></p>
 
